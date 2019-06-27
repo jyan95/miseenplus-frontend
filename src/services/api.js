@@ -1,5 +1,5 @@
 
-const API_BASE = 'http://localhost:3000'
+const API_BASE = 'https://miseenplus-backend.herokuapp.com/'
 
 const get = (url) => {
   return fetch(url)
