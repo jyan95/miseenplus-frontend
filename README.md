@@ -25,10 +25,11 @@ We wanted to create something to help stay organized when it came to cooking mul
   
 ## Installation
 
-1. Clone this repository and navigate to `/backend`, and run `gem install bundler`, then `bundle`
-2. run `rails db:migrate` and `rails db:seed`, then run `rails s` (it will default to http://localhost:3000)
-3. navigate to `/frontend` and run `npm install`, then `npm start` - it will prompt you to run on another port, hit `y`
-4. if it does not automatically open in your browser, navigate to http://localhost:3001
+1. Go to https://github.com/jyan95/project-mise-en-plusplus
+2. Clone the repository and navigate to `/backend`, and run `gem install bundler`, then `bundle`
+3. run `rails db:migrate` and `rails db:seed`, then run `rails s` (it will default to http://localhost:3000)
+4. navigate to `/frontend` and run `npm install`, then `npm start` - it will prompt you to run on another port, hit `y`
+5. if it does not automatically open in your browser, navigate to http://localhost:3001
 
 ### Contributors
 [sungchaan](https://github.com/sungchaan), [jyan95](https://github.com/jyan95)
