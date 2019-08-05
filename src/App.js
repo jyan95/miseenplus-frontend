@@ -5,7 +5,7 @@ import CookingPage from './CookingPage';
 import Login from './Login';
 import api from './services/api';
 
-const USERS_URL = 'http://localhost:3000/users';
+const USERS_URL = 'https://miseenplus-backend.herokuapp.com/users';
 const divStyle = {
   backgroundColor: '#ffe6e6'
 }
